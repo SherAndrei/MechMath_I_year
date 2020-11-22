@@ -1,0 +1,4 @@
+*.txt
+!autotests.txt
+*.~
+*.bak
